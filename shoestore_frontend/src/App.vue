@@ -37,8 +37,6 @@
     <footer>
       <p class="has-text-centered">Copyright (c) 2021</p>
     </footer>
-
-    <router-view/>
   </div>
 </template>
 
